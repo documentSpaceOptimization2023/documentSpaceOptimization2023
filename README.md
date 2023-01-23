@@ -3,6 +3,7 @@ as we can see we have 3 main folders:
 1. documents_generations - contains the files used for generating our 300000+ documents
 2. operators - contains the files used for performing operators on our generated documents
 3. modelling - contains the files we used to create the tests we showed in our paper
+4. second_experiment_ - contains the files used to create the 2nd test in our paper
 
 here is the list of python libraries we used in order to generate the documents, perform the operators and perform the tests on different models and architectures:
 1. to compile the generated latex code we used **tectonic** which uses the latex compiler **XeLaTeX**
