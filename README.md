@@ -9,4 +9,4 @@ here is the list of python libraries we used in order to generate the documents,
 2. to analyze the generated pdfs from our generated latex code we used **pdfminer** and **pdfplumber**, we also used these libraries to map objects from pdf files to their corresponding latex files.
 3. to create 300000 random unique latex files we used the libraries **essential_generators** (this libarary helps us create random texts) and **Random** and **Itertools**
 4. we used **Numpy** and **pandas** for Dataframes and arrays
-
+5. we used **scikit-learn** for the models we tested and we separated our dataset into train and test using **scikit-learn** too
